@@ -1,4 +1,4 @@
-[![Header](https://github.com/yuriyshchekotov/yuriyshchekotov/blob/main/assets/8da998325542687d96375445dc1decc3.jpg)]
+![Header](https://github.com/yuriyshchekotov/yuriyshchekotov/blob/main/assets/8da998325542687d96375445dc1decc3.jpg)
 ## QA Engineer
 ## My CV
 [Link to my CV]([https://drive.google.com/file/d/1HaeXlUL-Wttj7Vw5niHmE1ggbuYMVVBs/view?usp=sharing/](https://drive.google.com/file/d/1-GzOECCZy0lgurilszWUH5uo-rwPIBjw/view?usp=sharing))
@@ -18,8 +18,6 @@
 ![Header](https://img.shields.io/badge/TestRail-090909?style=for-the-badge&logo=&logoColor=71b556)
 ![Header](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
 ![Header]([https://img.shields.io/badge/CharlesProxy-090909?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7](https://www.rabbitmq.com/))
-
-
 
 ### Testing Documentation
 
