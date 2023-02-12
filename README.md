@@ -1,4 +1,4 @@
-![Header](https://github.com/yuriyshchekotov/yuriyshchekotov/blob/main/assets/8da998325542687d96375445dc1decc3.jpg)
+![Header](https://github.com/yuriyshchekotov/yuriyshchekotov/blob/main/assets/1673009748486.jpg)
 ## QA Engineer
 
 ## My CV
