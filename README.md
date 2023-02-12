@@ -3,9 +3,6 @@
 ## My CV
 [Link to my CV]([https://drive.google.com/file/d/1HaeXlUL-Wttj7Vw5niHmE1ggbuYMVVBs/view?usp=sharing/](https://drive.google.com/file/d/1-GzOECCZy0lgurilszWUH5uo-rwPIBjw/view?usp=sharing))
 
-
-<!-- YOUTUBE:END -->
-
 ### Tools
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
 ![Header](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
